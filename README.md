@@ -1,4 +1,4 @@
-# Bigdata_Webcrawling
+# BD_Webcrawling
 유명 프랜차이즈 교촌치킨 매장을 찾습니다.
 
 교촌치킨 매장 사이트를 통해, 매장 정보를 크롤링합니다. 
